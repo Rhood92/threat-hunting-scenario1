@@ -1,7 +1,7 @@
 # Device Accidentally Exposed to the Internet
 
-**Author:** [Your Name]  
-**Date:** [Date]  
+**Author:** Richard Hood Jr.  
+**Date:** 2/27/25  
 **Category:** Threat Hunting  
 
 ---
