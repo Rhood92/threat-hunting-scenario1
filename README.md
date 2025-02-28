@@ -134,6 +134,3 @@ Although the `rich-mde-test` VM was not explicitly internet-facing, attackers **
 ### 📌 **Repository Information**
 
 💡 This project is designed for **educational & security research purposes**. If you're interested in **Azure security**, **threat hunting**, or **KQL**, feel free to explore and contribute!  
-
-📁 _Repo: [GitHub Link]_  
-📬 _Contact: [Your Contact]_
